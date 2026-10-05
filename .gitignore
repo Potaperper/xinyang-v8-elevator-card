@@ -1,0 +1,10 @@
+# 卡片数据文件绝不要提交上来（里面是你自己的卡号和密钥）
+*.dump
+*.mfd
+*.bin
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.pyc
